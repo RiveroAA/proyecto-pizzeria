@@ -3,6 +3,6 @@
 	<title>Inicio</title>
 </head>
 <body>
-	<?php include("index.html")?>
+	<?php include("nav.php")?>
 </body>
 </html>
