@@ -3,7 +3,7 @@
 <head>
 	<title>Inicio</title>
 </head>
-<body class="bg-dark">
+<body>
 	<?php include("nav.php")?>
 </body>
 </html>
