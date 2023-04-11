@@ -4,6 +4,6 @@
 	<title>Inicio</title>
 </head>
 <body>
-	<?php include("nav.php")?>
+	<?php include("index.html")?>
 </body>
 </html>
